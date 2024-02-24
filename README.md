@@ -1,4 +1,4 @@
-# Mobile Users Application(Winforms)
+# Mobile Users Application (Winforms)
 
 This simple GUI application uses Winforms in C# to create a list of mobile users categorized into Apple and Android phones. 
 The first name, the last name, and the type of phone are to be selected when adding a user to the list.
